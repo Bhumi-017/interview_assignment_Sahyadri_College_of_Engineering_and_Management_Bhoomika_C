@@ -46,7 +46,7 @@ A **basic Figma design** was created for an Attendance Management System.
 - **Reports Section** (Download or view monthly attendance report)  
 
 📌 The Figma file link is included here:  
-👉 [Figma Design Link](#) *(replace `#` with your actual Figma URL)*  
+👉 [Figma Design Link](https://www.figma.com/design/DchYjbbRcynNe2U57PJvuB/Attendance-Management-System--BELC-?node-id=0-1&t=abBrDLNFPJG9Z4gl-1)  
 
 ---
 
